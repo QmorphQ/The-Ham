@@ -1,3 +1,4 @@
 # The-Ham
-## 1st step project The Ham is designed for individual work. It demands to use HTML, CSS and JS for implementing the task.
-## Check [DEMO](https://ham-chi.vercel.app/)
+### The-Ham is the project designed for individual work. It demands to use HTML, CSS and JS for implementing the task.
+### You can check the [DEMO](https://ham-chi.vercel.app/) or download code locally and via the command line prompt run `npm run preview` from the root directory.
+<hr>
